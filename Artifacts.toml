@@ -1,288 +1,288 @@
 [[zbar]]
 arch = "aarch64"
-git-tree-sha1 = "dae83bf9ccbccd5baf5312032f22cbd3339688f3"
+git-tree-sha1 = "3e34c7fd413e23d8035bf8a54ec14fadaac23d7f"
 os = "macos"
 
     [[zbar.download]]
-    sha256 = "9a71716ef6d2a21e3d1b8207773d12308c2e1baca1607d5a73f839bae4cc813f"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.aarch64-apple-darwin.tar.gz"
+    sha256 = "c6927e006c51fb0669896cddd47500bb0467a548bae72c348e9e3a364698b826"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.aarch64-apple-darwin.tar.gz"
 [[zbar]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2be6985e16a55a896372058a0ba9bcabd3759805"
+git-tree-sha1 = "898471c1baee76321da964dd9c3790456ab06423"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "65e44a68e02d9100fc93d9466f210de38a175753df929faabba6e0cf3a508a44"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "e2367ea28e96089d800fce94ba2659844f52442832142b1dbbcf1ce0ff247db7"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.aarch64-linux-gnu-cxx03.tar.gz"
 [[zbar]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3869a56ed65f412df7128030ef39a7bda1f46398"
+git-tree-sha1 = "3fd108f1a457294c6ec7c4232f7745857f557e17"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "57e4d3f0b3705fd51a59129d8682bfb0433e1578c3eb4697d25b03aa07651546"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "807121d6e0ace9a3ed9de94f4a766c99a8751b2416428bd59d369c87ab5e3172"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.aarch64-linux-gnu-cxx11.tar.gz"
 [[zbar]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e160f1873bd2c3d61dcf9e21d89e826413d00aaa"
+git-tree-sha1 = "063a57c028251eb49a56d1bf6dc7a8c82620b021"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "5613c9d215831b5d9b51275e5e09af4ca186cd5b0f0ce23877786c9692f7aa83"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "d12af448c1761dc49e3d0fa8a80be514b2dc226d9ab16da0667f522265f94d21"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.aarch64-linux-musl-cxx03.tar.gz"
 [[zbar]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13bf87b47bf60b96f85f65db0021fb5c43786199"
+git-tree-sha1 = "fec3a0e613010905c5cf4aa27af8830fa293e845"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "fabacc84d1daad8ce37d60dd03ee7919670eb6e59769269b10df6f9fb4e41420"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "8512f72c31f8d1e0e590870b55d0a43140686b53ac0fdff122a74e2de783ccc9"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.aarch64-linux-musl-cxx11.tar.gz"
 [[zbar]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ec4eb7c724bcdc1f9e7cdf0fdb684e233cffc7f8"
+git-tree-sha1 = "0034ec3989038aa2229730e20c210f809b1d1482"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "125e8f5ae5c0ee883c7fa377919aef7681a6f4f20dfad71bbe8d0954c4f8c49d"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "eb1ab681f410d30b044a4fdc2289c5d72e96f4d32ab4bff45be4a5c2b78c3be8"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[zbar]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c3bedc2799c5b9a37124eaed55f69e35915701f"
+git-tree-sha1 = "0f4bba3e60e18fddcd14f69e9f0ec58015206e36"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "738404cac16cbced9d736f83612c1e1e7c5e36644471fc5d1c386971d6daa3b5"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "3dd479c290723277d438f645762cc1178599c81009ebeb93394b73022939b64d"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[zbar]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bd201de0281d53e918afd766174a6d14795b3116"
+git-tree-sha1 = "c6938f973f19242783fa5bf2e1d9b069570de477"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "9d66a6dfaf9cd9ec1c9894fe203f5f462e4717a0f07143fab800505ae39606dd"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "2a64d6785ec434cc84ef603fe5c2a053791668c0f9d5f6a776d9da0bc053101e"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[zbar]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca031a38bb3dcea2597b803d4f5a2daa64e9a0d9"
+git-tree-sha1 = "1ce3a154398a02b645aef676425ee3f2d8c7ac73"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "067c8f599930dfb488f506b88cb32b8a2c64be1d0a611b719bda6a15e5e7227b"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "69627f3d42e3a853216cf07597ce0f36e1ccbb346788025fdc626c5a41370c83"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[zbar]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "59da0cf7cc5e04be65d9dc604b703dd18d31f131"
+git-tree-sha1 = "a9f4b2f83e2cfa6a9c411a1ad83f190745b9b538"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "324118dd376b35cbce3bed1d749ecb079cf4fe55520e20223fb7c3cc29678502"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "4f75141869427758a8e19e176e110ff5be24da666df0773253b5cfbd060ca7c7"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[zbar]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "775f6c8d0cb7e8a9e313cf2854d727a1d8292585"
+git-tree-sha1 = "d7ce3258dbc41fc8060f81484704ce8b22d5e321"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "2ea2fc4907ad5ec37b91feecaa2826f832b32ab01de1fac64c39bae1ba9e5fe8"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "cbe78aa0b975cc51342d30171ab89ec27a2b7dc4fd424a84249885887d38a4e3"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[zbar]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fa1b37271aa9ca5667bc96bedcf5dcbd840f2510"
+git-tree-sha1 = "096b5aeabf05f39eed6b0af0d6343a83b79fb953"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "0f15f8ad67f5300b8d8d280700fbcc66940c9f21d72a2b825cdc1cd81041e3f5"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "07d7a67481dd4d5e5e0b6159534a7f136208fc5eee5871d01ae154ace7efcc31"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[zbar]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fc84d0c8e453635e4acd898e110ce03363ad4d48"
+git-tree-sha1 = "35803dc57dacfa956d6308126fab55f616c4cf13"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "f0b8a366f6d564fd604d34b97f15e11d6909b627655023c65156f6336c201175"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "e02c19a2b9adf6c32efaa8fd62948d26d3c656f81de1e721457b84f1d4089b92"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[zbar]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "51b61e0963e1d3638301b3890beed5cfa3c1cb11"
+git-tree-sha1 = "f92d6fb4b0c589ab6713bb64bd6ae88eab8ec9cb"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "830e3f49da05e9986dee2fab7a20265343e8a6f9ffc2dcae85f8ad2a0276bf08"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "a4401dc9395da3645ce4bd6db9769bfac2406e11c5ef6fa3a93d460857d93d0d"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.i686-linux-gnu-cxx03.tar.gz"
 [[zbar]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8cdc0a218b80306220ee8b2f51964dd6e293d04a"
+git-tree-sha1 = "a7decf479e8617a95aed310a421effed61e0d790"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "01e5793084525d4b25aa22dc193fce2385fe65d8755e7cbdceecaec77526d31e"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "0196980276aefff341d99ff26ebdde00d145a9b99277a1724a1ab014312685a4"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.i686-linux-gnu-cxx11.tar.gz"
 [[zbar]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5ef9c7a19be7428e15f611b5bcaf54b6dfea923d"
+git-tree-sha1 = "e8a22c7d3498da32d1e53eb9c0196d046916242a"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "32707cf4f21a7d305fa4b65a0491de9fcac7cd63114799a7b0c261697324bcd2"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "254a54b7a5ab560045ff62c63047e9ef2c890fd9ae70a1c0f7b9408605a68088"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.i686-linux-musl-cxx03.tar.gz"
 [[zbar]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89dda0b7bea461b4e713e48b3dff0644fcdca9b0"
+git-tree-sha1 = "1624de8a82b0f0760494277a510cf217ddd8e494"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "389fa9d001547d6e2cb4921ebefe38224d7dedf06225c08765887e4a5af71fca"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "f371b1f73b5379eef221570d0e18eeecd77324cf82b384c14fb4a83201ef4c44"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.i686-linux-musl-cxx11.tar.gz"
 [[zbar]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e1fc0b8454006e6f0fa5264d9ff8bd89d1afade8"
+git-tree-sha1 = "4207b26b03d5f98550a0deb572cc1d6262175120"
 os = "windows"
 
     [[zbar.download]]
-    sha256 = "961e89086581d0e55fed56abf256f73f26c12c113e13a4b0e76e7d68c152802e"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "44e18a982e82010b0609f4d55ef13d067d3e6371789ff85b4725769d5249c9e5"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.i686-w64-mingw32-cxx03.tar.gz"
 [[zbar]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9717471eb1cf621b6d527338415cda2544a69160"
+git-tree-sha1 = "1047c84aa0c116c4797bfecded7e69f8b67cbeab"
 os = "windows"
 
     [[zbar.download]]
-    sha256 = "ddf16bc98d034996b8ad9dcb9902ffca1d11303405d87a10cc607ba1952795c5"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "9cc8f6da45c78c5ff0fe119e8f8da1dc846ff6748b1827cbd2c1d318afba377c"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.i686-w64-mingw32-cxx11.tar.gz"
 [[zbar]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5be18207d350fcd282d423fb6ced33eb5d8f8dc5"
+git-tree-sha1 = "bc7e218fd23587657e3f60ffb1f3393497bf49d7"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "c999fc217fe02e6795e72d828abe763fa2766a793e286200162e4b663f6643f7"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "4900aeabdf96cbeb5b98a516675e0bef79ea3b84015ee87e4f1e7d755a4113d4"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[zbar]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "089de0af1ca28e53cb0c46478f1065ec9f23a76e"
+git-tree-sha1 = "9bcdf32ca03937bbdd33727a8eede968f8c1cbca"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "facc55841882855f04df59a8fd3220d7cf9976b09e4dc6a762d550c9e2723648"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "ee845c4742b80dfa891933580399ab31c654482641e5e95a91074a768d40bea4"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[zbar]]
 arch = "x86_64"
-git-tree-sha1 = "76abd725315e9a764e12521f489de43ed5dea6cd"
+git-tree-sha1 = "9a5d5f2fa87f8e6c1fb4876315363dcf251ce2f1"
 os = "macos"
 
     [[zbar.download]]
-    sha256 = "42dd9d6f7a52481548be32f0d076941e85b0964c8666f4ca10b08f82c929d271"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.x86_64-apple-darwin.tar.gz"
+    sha256 = "43b7c36773fd70022a60d2589718bb534affe607d785c616a5627c6916d71220"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.x86_64-apple-darwin.tar.gz"
 [[zbar]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf914abd05cb929eab6fb472d55b03b3224dbf35"
+git-tree-sha1 = "d0be44b18bebaf6712a4fcd567f682f5c7f5f54b"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "e1abf9affa9bf1f504138329387c02643e126500060f91352ec058be89808320"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "6a837d8ee98c7e27431b5a165eb452ae2e08ab84df5761b21ed3331696ad378d"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.x86_64-linux-gnu-cxx03.tar.gz"
 [[zbar]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae0ec45fea87ed0c66d1c51f18e96ffa0deedb2c"
+git-tree-sha1 = "eefccf3ca18187de1c3fe34bc7190a67126bfc86"
 libc = "glibc"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "c3f42856a753c906c10469638986c22aa1b5c1b994112ddb27099ff3c2aed294"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "188e68ceecdaf4ca13c939bfa05dcdbdf6cace31b597b94b786bf170392333da"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.x86_64-linux-gnu-cxx11.tar.gz"
 [[zbar]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "df7b01afc611de1ba988a2ddffb12a4d19416eab"
+git-tree-sha1 = "c467cc38d65789fdff7da8efdd3c02ee03fe7c79"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "bcec7951f92ca288f12d7a87ce276c708f37ead48b6242c8b41f519d6f721d14"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "a2f9f7741bc5808320c00279e2a202a071f76c4001eec102817b339f3550fcd0"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.x86_64-linux-musl-cxx03.tar.gz"
 [[zbar]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6583869fb841cc3d7b0e3617698651942c79c979"
+git-tree-sha1 = "0aeb14998c7d2fda9a613885347898a29865b820"
 libc = "musl"
 os = "linux"
 
     [[zbar.download]]
-    sha256 = "f58c0496672fa51617592be47a56183ceb157373acbcc4bc994a7eee0b29667f"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "1c10cad68b7c79ae1a0e735bbfe611a5c42143509f749caf1d09fb3379c53955"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.x86_64-linux-musl-cxx11.tar.gz"
 [[zbar]]
 arch = "x86_64"
-git-tree-sha1 = "97ee9ec93b9946c9799a508f682d52e62d78e9c9"
+git-tree-sha1 = "632ef75e12cafe891c12126582b3d5cf6c998132"
 os = "freebsd"
 
     [[zbar.download]]
-    sha256 = "ef2f57a100c1b38aa2df0698ce53f93cfa4bfff4779f9b17fb1e51343c9210d1"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "04406a2d524919e6961dbc3618a2824c8b47fcfd6ca2a6eeff4bac9dcb57c90d"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.x86_64-unknown-freebsd.tar.gz"
 [[zbar]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f6319f8dc2736ff00c5e9980f218b0aa6ee72706"
+git-tree-sha1 = "3238747fa44fcda0ddfe67d154a313f792317ec8"
 os = "windows"
 
     [[zbar.download]]
-    sha256 = "c18a194036bff977b6bc6f96e5bd623ef847be490a683b3c00a37485e51ea566"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "6af16042df18efb5f31153000eb471f7a91ea78832e7faa5efa51cc95c2bcf66"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.x86_64-w64-mingw32-cxx03.tar.gz"
 [[zbar]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b25719a038026964c14b9c914009082b6162e34"
+git-tree-sha1 = "a9816126e626acf28c0397da232e5f321921825e"
 os = "windows"
 
     [[zbar.download]]
-    sha256 = "2e446af1dbecb28b8bef2737c69caf99388b9abf29fe7c93ee7431d57e098aa8"
-    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.92+0/zbar.v0.23.92.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "fde5ec0958e2bb2f5d6026543d7b0cb91339ac596579c22f9449c56f2d9456b1"
+    url = "https://github.com/JuliaBinaryWrappers/zbar_jll.jl/releases/download/zbar-v0.23.93+0/zbar.v0.23.93.x86_64-w64-mingw32-cxx11.tar.gz"
